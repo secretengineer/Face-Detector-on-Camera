@@ -4,9 +4,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-UNO%20Q-teal.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-This is a simple, proof-of-concept project called, **Face Detector on Camera**.
+Welcome to the **Face Detector on Camera** project! 📸✨
 
-This application uses the Arduino UNO Q as a smart vision device. It captures a live video feed from a USB camera, uses an AI model (YoloX-Nano) to detect faces in real-time, and draws bounding boxes around the detections. It's a perfect example of how easy it is to integrate computer vision into your IoT projects using the Arduino App Lab.
+This application transforms your Arduino UNO Q into a smart vision device. It captures a live video feed from a USB camera, uses Artificial Intelligence to detect faces in real-time, and draws bounding boxes around the detections. It's a perfect example of how easy it is to integrate computer vision into your IoT projects using the Arduino App Lab.
 
 ![Detect Objects on Camera](assets/docs_assets/video-face-detection.png)
 
@@ -161,3 +161,4 @@ Facial recognition technology, like the one demonstrated in this simple example,
 *   **Surveillance**: Widespread use can lead to a "surveillance state" where anonymity is lost.
 
 As developers, it is crucial to understand these implications and use this powerful technology responsibly and ethically.
+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
