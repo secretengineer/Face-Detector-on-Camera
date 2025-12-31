@@ -3,6 +3,6 @@ description: This example showcases face detection within a live feed from a USB
 ports: []
 bricks:
 - arduino:video_object_detection:
-    model: face-detection
+    model: yolox-object-detection
 - arduino:web_ui: {}
 icon: ☺️
