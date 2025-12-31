@@ -6,7 +6,7 @@
 
 This is a simple, proof-of-concept project called, **Face Detector on Camera**.
 
-This application uses the Arduino UNO Q as a smart vision device. It captures a live video feed from a USB camera, uses an AI model (YoloX-Nano) to detect faces in real-time, and draws bounding boxes around the detections. It's a perfect example of how easy it is to integrate computer vision into your IoT projects using the Arduino App Lab.
+This application uses the Arduino UNO Q as a smart vision device. It captures a live video feed from a USB camera, uses an AI model (YoloX-Nano) to detect faces, as well as other objects in the scene, in real-time, and draws bounding boxes around the detections. It's a perfect example of how easy it is to integrate computer vision into IoT projects using the Arduino App Lab.
 
 ![Detect Objects on Camera](assets/docs_assets/video-face-detection.png)
 
